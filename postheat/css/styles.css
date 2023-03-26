@@ -1053,13 +1053,10 @@
 
   .header__logo-postheat {
     display: none;
-    /* width: 92px;
-    height: auto; */
   }
 
   .nav__menu {
     gap: 30px;
-    /* display: none; */
   }
 
   /* Intro */
